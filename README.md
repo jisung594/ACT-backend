@@ -1,2 +1,2 @@
-# act-backend
+# ACT-backend
 Another Covid Tracker (backend)
